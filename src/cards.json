@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Genji",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/genji/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Hanzo",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/hanzo/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "McCree",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mccree/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Mercy",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Zenyatta",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/zenyatta/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mei",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mei/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Reaper",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/reaper/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Tracer",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/tracer/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Pharah",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/pharah/full-portrait.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Junkrat",
+    "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/junkrat/full-portrait.png",
+    "count": 0
+  }
+]
